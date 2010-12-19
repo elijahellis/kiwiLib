@@ -1,0 +1,5 @@
+C:\Users\Elijah\Documents\Visual Studio 2010\Projects\APT Explorer\KiwiLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Elijah\Documents\Visual Studio 2010\Projects\APT Explorer\KiwiLib\bin\Debug\KiwiLib.dll
+C:\Users\Elijah\Documents\Visual Studio 2010\Projects\APT Explorer\KiwiLib\bin\Debug\KiwiLib.pdb
+C:\Users\Elijah\Documents\Visual Studio 2010\Projects\APT Explorer\KiwiLib\obj\Debug\KiwiLib.dll
+C:\Users\Elijah\Documents\Visual Studio 2010\Projects\APT Explorer\KiwiLib\obj\Debug\KiwiLib.pdb
